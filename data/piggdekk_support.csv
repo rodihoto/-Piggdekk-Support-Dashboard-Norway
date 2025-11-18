@@ -1,0 +1,4 @@
+﻿municipality,county,has_support,payment_per_tire,max_tires,max_total_nok,period_start,period_end,lat,lon,info_url
+Kristiansand,Agder,True,400,4,1600,2025-06-01,2026-05-31,58.1467,7.9956,https://www.kristiansand.kommune.no/aktuelt/2025/na-kan-du-soke-om-pant-for-piggdekk/
+Stavanger,Rogaland,True,300,4,1200,2024-11-01,2025-05-31,58.969,5.7331,https://www.stavanger.kommune.no/piggdekkpant
+Trondheim,Trøndelag,True,300,4,1200,2025-09-01,2025-12-31,63.4305,10.3951,https://www.trondheim.kommune.no/tema/klima-miljo-og-naring/forurensning/piggfritt-nytter/
